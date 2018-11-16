@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<sdk:sdk-addon
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:sdk="http://schemas.android.com/sdk/android/addon/7">
+    <sdk:add-on>
+        <sdk:vendor-display>StarNet eVideo</sdk:vendor-display>
+        <sdk:name-display>evideostb platform add-on</sdk:name-display>
+        <sdk:description>evideostb platform add-on</sdk:description>
+        <sdk:api-level>22</sdk:api-level>
+        <sdk:revision>1</sdk:revision>
+        <sdk:libs>
+        </sdk:libs>
+        <sdk:archives>
+            <sdk:archive>
+                <sdk:size>3483</sdk:size>
+                <sdk:checksum type='sha1'>15728cf0dcc00236c9ba6a7989c9e725b27eb337</sdk:checksum>
+                <sdk:url>evideostb_platform-eng.ycn-linux-x86.zip</sdk:url>
+        <sdk:host-os>linux</sdk:host-os>
+            </sdk:archive>
+        </sdk:archives>
+    </sdk:add-on>
+</sdk:sdk-addon>
